@@ -1,0 +1,11 @@
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/obj/Debug/netcoreapp2.1/Lab2_PerimeterArea.csprojAssemblyReference.cache
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/obj/Debug/netcoreapp2.1/Lab2_PerimeterArea.csproj.CoreCompileInputs.cache
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/obj/Debug/netcoreapp2.1/Lab2_PerimeterArea.AssemblyInfoInputs.cache
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/obj/Debug/netcoreapp2.1/Lab2_PerimeterArea.AssemblyInfo.cs
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/bin/Debug/netcoreapp2.1/Lab2_PerimeterArea.deps.json
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/bin/Debug/netcoreapp2.1/Lab2_PerimeterArea.runtimeconfig.json
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/bin/Debug/netcoreapp2.1/Lab2_PerimeterArea.runtimeconfig.dev.json
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/bin/Debug/netcoreapp2.1/Lab2_PerimeterArea.dll
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/bin/Debug/netcoreapp2.1/Lab2_PerimeterArea.pdb
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/obj/Debug/netcoreapp2.1/Lab2_PerimeterArea.dll
+/Users/Mace/Desktop/DotNET/Projects Re-Done/Lab2_PerimeterArea/Lab2_PerimeterArea/obj/Debug/netcoreapp2.1/Lab2_PerimeterArea.pdb

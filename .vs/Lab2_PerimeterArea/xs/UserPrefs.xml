@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AFAAFC79-D5B9-45A9-8480-9AE49E6B198A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2_PerimeterArea/Program.cs">
+    <Files>
+      <File FileName="Lab2_PerimeterArea/Program.cs" Line="102" Column="82" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab2__PerimeterArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
